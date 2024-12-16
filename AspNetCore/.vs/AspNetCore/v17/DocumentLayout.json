@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Satyam Gupta\\Desktop\\myFiles\\projects\\ASP.Net_Learnings\\AspNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5680270-A386-4101-8144-25403DDB8201}|AspNetCore\\AspNetCore.csproj|c:\\users\\satyam gupta\\desktop\\myfiles\\projects\\asp.net_learnings\\aspnetcore\\aspnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5680270-A386-4101-8144-25403DDB8201}|AspNetCore\\AspNetCore.csproj|solutionrelative:aspnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Satyam Gupta\\Desktop\\myFiles\\projects\\ASP.Net_Learnings\\AspNetCore\\AspNetCore\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Satyam Gupta\\Desktop\\myFiles\\projects\\ASP.Net_Learnings\\AspNetCore\\AspNetCore\\Program.cs",
+              "RelativeToolTip": "AspNetCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:27:12.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
